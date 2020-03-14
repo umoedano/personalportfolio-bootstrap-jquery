@@ -5,9 +5,22 @@
 }
 
 #contentBannerHome h1{
-    font-size: 50px;
+    font-size: 20px;
 }
 
 #contentBannerHome p{
     font-size: 20px;
+}
+
+#aboutMeRow{
+    margin-top: 100px;
+}
+
+#skillsRow{
+    margin-top: 100px;
+}
+
+#servicesRow{
+    margin-top: 100px;
+    text-align: center;
 }
